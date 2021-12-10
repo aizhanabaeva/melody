@@ -1,2 +1,2 @@
-# melody
-Проект Glo Academy
+# melody - Проект Glo Academy
+## Выполнила - Жанабаева Айжан

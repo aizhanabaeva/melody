@@ -113,3 +113,6 @@ color: #fff;
 .home-image path:hover{
   opacity: 1;
 }
+path.current-floor{
+  opacity: 1;
+}
